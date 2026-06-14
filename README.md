@@ -1,19 +1,30 @@
-# Java Streams Practice Questions
+ ## Java Streams — Practice Repository
+A curated collection of hands-on Java Stream API practice problems, organized by topic — from beginner filtering to real-world data questions.
 
-A collection of Java Streams API practice problems organized by topic, 
-designed to build fluency with functional-style programming in Java 8+.
+## What is this?
+This repository is part of my Building in Public series where I document my Java learning journey daily. Each file targets a specific Stream API concept with real, runnable code.
+Whether you are preparing for interviews, learning Java 8+ features, or exploring functional programming, this repo is for you.
 
-## Topics Covered
-- **Basic Operations** – map, filter, forEach, sorted, count
-- **Array Operations** – streaming arrays, flatMap, primitive streams
-- **Filtering & Searching** – findFirst, findAny, anyMatch, allMatch, noneMatch
-- **String Operations** – joining, splitting, transforming strings with streams
-- **Duplicate & Distinct Handling** – distinct, groupingBy, frequency counting
-- **Data Questions** – real-world queries using a custom `Employee` model
+## Key Stream Concepts Covered
+Intermediate vs terminal operations
+Lazy evaluation — pipelines don't execute until a terminal op is called
+filter(), map(), sorted(), reduce(), distinct(), collect()
+Working with custom objects (Employee POJO)
+Real-world interview-style questions
 
-## How to Use
-Clone the repository and run individual files in any Java IDE (IntelliJ, Eclipse, VS Code).
-Each file is self-contained with its own `main` method.
+## How to Run
+git clone https://github.com/nishant2narula/Java-Streams.git
+cd Java-Streams
+# Open in your IDE (IntelliJ / Eclipse / VS Code)
+# Run any file with a main() method directly
 
-## Prerequisites
-- Java 8 or higher
+## Requirements
+Java 8 or higher. No external dependencies.
+
+I'm actively looking for Java / Spring Boot / Cloud Engineering roles. If this repo helped you, a it means a lot!
+
+## LinkedIn — [Nishant Narula](https://www.linkedin.com/in/nishant-narula/)
+
+
+
+
